@@ -1,0 +1,4 @@
+1|Harshitha|5000
+2|Sukeerthi|3000
+3|Divya Keerthi|1500
+4|Dharani|1000

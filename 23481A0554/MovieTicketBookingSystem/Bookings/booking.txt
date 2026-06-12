@@ -1,0 +1,3 @@
+Customer : Neelapu | Movie : OG | Theater : PSX | Show Time : 06/06/2026 12:32:50 PM | Tickets : 4 | Amount : 800
+Customer : Neelapu | Movie : OG | Theater : PSX | Show Time : 06/06/2026 12:38:47 PM | Tickets : 4 | Amount : 800Customer : Neelapu | Movie : OG | Theater : PSX | Show Time : 08-06-2026 14:01:49 | Tickets : 4 | Amount : 800
+Customer : Neelapu | Movie : OG | Theater : PSX | Show Time : 08-06-2026 14:07:54 | Tickets : 4 | Amount : 800
